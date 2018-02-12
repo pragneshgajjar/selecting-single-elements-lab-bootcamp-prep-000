@@ -23,8 +23,8 @@ Go ahead and select the JavaScript tab and you'll see some JavaScript code
 ```javascript
 //Enter querySelector Code here
 var header = querySelector("#header")
-var linkText = querySelector("")
-var linkHref = "ENTER LINK HREF CODE HERE"
+var linkText = querySelector('p')
+var linkHref = querySelector('a')
 
 
 // NO NEED TO MODIFY BELOW HERE
